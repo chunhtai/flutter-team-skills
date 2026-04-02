@@ -1,0 +1,12 @@
+[submodule "chunhtai-skills"]
+	path = chunhtai-skills
+	url = https://github.com/chunhtai/skills
+[submodule "justinmc-flutter-skills"]
+	path = justinmc-flutter-skills
+	url = https://github.com/justinmc/flutter-skills
+[submodule "loic-sharma-flutter_triage_tools"]
+	path = loic-sharma-flutter_triage_tools
+	url = https://github.com/loic-sharma/flutter_triage_tools
+[submodule "dkwingsmt-flutter-skills"]
+	path = dkwingsmt-flutter-skills
+	url = https://github.com/dkwingsmt/flutter-skills
