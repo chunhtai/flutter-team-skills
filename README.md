@@ -10,6 +10,7 @@ The following submodules are tracked in this repository using the owner-repo nam
 *   **justinmc-flutter-skills**: [Source](https://github.com/justinmc/flutter-skills)
 *   **loic-sharma-flutter_triage_tools**: [Source](https://github.com/loic-sharma/flutter_triage_tools)
 *   **dkwingsmt-flutter-skills**: [Source](https://github.com/dkwingsmt/flutter-skills)
+*   **piinks-flutter-skills**: [Source](https://github.com/Piinks/flutter-skills)
 
 ## Working with Submodules
 

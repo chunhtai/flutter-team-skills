@@ -10,3 +10,6 @@
 [submodule "dkwingsmt-flutter-skills"]
 	path = dkwingsmt-flutter-skills
 	url = https://github.com/dkwingsmt/flutter-skills
+[submodule "piinks-flutter-skills"]
+	path = piinks-flutter-skills
+	url = https://github.com/Piinks/flutter-skills
